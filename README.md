@@ -17,4 +17,4 @@ Open index.html in your browser to view the website.
 Customize the content in index.html and styles in styles.css to make it your own.
 
 # Screenshots
-![img](https://github.com/sujitkumarmalik/Currency-Converter/blob/main/Screenshot%202024-05-12%20124037.png)
+![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112717.png)
