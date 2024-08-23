@@ -20,7 +20,7 @@ Customize the content in index.html and styles in styles.css to make it your own
   #home
 ![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112717.png)
   #about
-![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112717.png)
+![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112753.png)
 
 #Responsive
 ![img](https://github.com/sujitkumarmalik/Responsive-Portfolio/blob/main/Screenshot%202024-08-23%20112717.png)
