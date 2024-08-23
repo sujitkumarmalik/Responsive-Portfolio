@@ -1,7 +1,7 @@
-#My Portfolio Website
+#My Portfolio Website<br>
 This is a simple and responsive personal portfolio website built using HTML and CSS. It features sections for the header, about, services, portfolio, and contact information.
 
-#Features
+#Features<br>
 Responsive Design: Adapts to different screen sizes, including mobile devices.<br>
 Smooth Scrolling: Implements smooth scrolling for better user experience.<br>
 Interactive Elements: Hover effects and animations for services and portfolio sections.<br>
